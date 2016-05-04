@@ -1,7 +1,7 @@
 {
   "name": "ng-masonry",
   "description": "AngularJS Directive for Masonry Layout",
-  "main": "angular-masonry.min.js",
+  "main": "angular-masonry.js",
   "scripts": [
     "angular-masonry.min.js"
   ],
