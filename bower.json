@@ -1,0 +1,23 @@
+{
+  "name": "ng-masonry",
+  "description": "AngularJS Directive for Masonry Layout",
+  "main": "index.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "directive",
+    "masonry"
+  ],
+  "homepage": "https://github.com/justinwoodcock/angular-masonry",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
